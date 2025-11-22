@@ -1,5 +1,5 @@
 ---
-title: 'Atlaswear'
+title: 'Helena'
 subtitle: 'An independent fashion label blending performance and streetwear.'
 description: 'We redesigned Atlaswear’s e-commerce experience to feel premium, fast, and fashion-forward. With a focus on clarity and conversion, we simplified the product architecture, added smart animations, and made the site easier to shop — especially on mobile.'
 list:
@@ -11,7 +11,7 @@ list:
 imageThumbnail: '/collections/work/atlaswear.jpg'
 image: "/assets/images/a.jpg"
 introduction:
-  title: 'The Brief'
+  title: 'Who am I ?'
   subtitle: 'A quick look at the goals, the spark behind the project, and what made it worth building.'
   body: >
     <p>We redesigned Atlaswear’s e-commerce experience to feel premium, fast, and fashion-forward. With a focus on clarity and conversion, we simplified the product architecture, added smart animations, and made the site easier to shop — especially on mobile.</p>
