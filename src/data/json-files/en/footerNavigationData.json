@@ -1,7 +1,7 @@
 {
 	"footerAbout": {
 		"aboutText": "Tired of boring? Let’s talk.",
-		"aboutLink": "hello@pytagora.com"
+		"aboutLink": "hello@unKolor.com"
 	},
 	"footerColumns": [
 		{
@@ -30,6 +30,6 @@
 		}
 	],
 	"subFooter": {
-		"copywriteText": "2025 Pytagora"
+		"copywriteText": "2025 unKolor"
 	}
 }

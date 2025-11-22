@@ -22,14 +22,14 @@ export interface Config {
 }
 
 export const configData: Config = {
-	siteTitle: 'pytagora - Agency Theme Built with Astro by Oxygenna',
+	siteTitle: 'unKolor - Agency Theme Built with Astro by Oxygenna',
 	siteDescription:
-		'pytagora is a standout agency template with striking design, blazing speed, built for modern agencies and creatives',
+		'unKolor is a standout agency template with striking design, blazing speed, built for modern agencies and creatives',
 	ogImage: '/og.jpg',
 	logo: {
 		src: '/logo-light.webp',
 		srcDark: '/logo-dark.webp',
-		alt: 'pytagora logo'
+		alt: 'unKolor logo'
 	},
 	canonical: true,
 	noindex: false,

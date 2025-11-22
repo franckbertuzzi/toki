@@ -12,7 +12,7 @@ import netlify from "@astrojs/netlify";
 
 // https://astro.build/config
 export default defineConfig({
-  site: "https://pytagora-theme.netlify.app/",
+  site: "https://unKolor-theme.netlify.app/",
   i18n: {
     locales: ["en", "fr"],
     defaultLocale: "en",

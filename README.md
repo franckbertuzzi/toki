@@ -1,27 +1,27 @@
-# pytagora Astro Theme
+# unKolor Astro Theme
 
 A standout agency template with striking design, blazing speed, built for modern agencies and creatives
 
-![pytagora](https://oxygenna-themes.b-cdn.net/pytagora-astro/promo/pytagora.png)
+![unKolor](https://oxygenna-themes.b-cdn.net/unKolor-astro/promo/unKolor.png)
 
-[![View live Demo](https://oxygenna-themes.b-cdn.net/pytagora-astro/promo/demo-button.svg)](https://pytagora-theme.netlify.app/) [![Page Speed Insights (100%)](https://oxygenna-themes.b-cdn.net/pytagora-astro/promo/button-pagespeed.svg)](https://pagespeed.web.dev/analysis/https-pytagora-theme-netlify-app/3qen1cfq0t?form_factor=desktop)
+[![View live Demo](https://oxygenna-themes.b-cdn.net/unKolor-astro/promo/demo-button.svg)](https://unKolor-theme.netlify.app/) [![Page Speed Insights (100%)](https://oxygenna-themes.b-cdn.net/unKolor-astro/promo/button-pagespeed.svg)](https://pagespeed.web.dev/analysis/https-unKolor-theme-netlify-app/3qen1cfq0t?form_factor=desktop)
 
 ## Introduction
 
 ### About
 
-pytagora is a premium Astro template built for creative agencies, studios, and freelancers who want to stand out. With a truly unique design and a flawless 100/100 Google PageSpeed score, pytagora combines cutting-edge visuals with best-in-class performance. Whether you're launching a portfolio, agency site, or creative showcase, pytagora is the perfect starting point—flexible, fast, and future-ready.
+unKolor is a premium Astro template built for creative agencies, studios, and freelancers who want to stand out. With a truly unique design and a flawless 100/100 Google PageSpeed score, unKolor combines cutting-edge visuals with best-in-class performance. Whether you're launching a portfolio, agency site, or creative showcase, unKolor is the perfect starting point—flexible, fast, and future-ready.
 
 ### Features
 
 - **14 Pre-Built Pages (and more to come):** Launch your site quickly with a complete set of professionally designed pages ready to go.
-- **Perfect 100/100 PageSpeed Score:** Built for maximum performance and lightning-fast load times, pytagora delivers a flawless Google PageSpeed score.
+- **Perfect 100/100 PageSpeed Score:** Built for maximum performance and lightning-fast load times, unKolor delivers a flawless Google PageSpeed score.
 - **Modular Block Sections:** All pages are built using flexible, reusable block sections—easily insert, rearrange, or extend with new content from our growing library.
 - **Reusable Components:** Save time and stay consistent with a full suite of customizable, reusable UI components.
 - **Built with Astro v5 & Tailwind CSS v4:** Enjoy the latest development features and speed with Astro’s cutting-edge framework and Tailwind's newest utility-first release.
 - **Keystatic CMS Integration:** Manage your content visually and inline with the Git-friendly Keystatic CMS—modern, flexible, and developer-approved.
 - **Light & Dark Mode:** Give users full control with a seamless toggle between light and dark themes.
-- **SEO Optimized:** pytagora is built with clean, semantic HTML and optimized metadata to boost visibility and search engine ranking.
+- **SEO Optimized:** unKolor is built with clean, semantic HTML and optimized metadata to boost visibility and search engine ranking.
 - **Mega Menu Navigation:** Support complex navigation structures with a built-in, responsive mega menu—ideal for large sites.
 - **Content Collections:** Organize and manage your content with Astro’s powerful content collections system.
 - **Premium Support via Discord:** Gain access to our private Discord channel for direct support, updates, and guidance.
@@ -44,7 +44,7 @@ After downloading the theme, install the dependencies and run it on your local s
 
 ### Folder structure
 
-Inside pytagora Astro project, you'll see the following folders and files:
+Inside unKolor Astro project, you'll see the following folders and files:
 
 ```plaintext
 /
@@ -136,7 +136,7 @@ However, if you want to give users the ability to switch between themes, you can
 
 ## Content Management
 
-pytagora includes Keystatic CMS integration for Case Studies collection management. The configuration can be found in `keystatic.config.ts`, which defines:
+unKolor includes Keystatic CMS integration for Case Studies collection management. The configuration can be found in `keystatic.config.ts`, which defines:
 
 - Content collections structure
 - Field configurations
@@ -161,7 +161,7 @@ For more details, see [Keystatic's documentation](https://keystatic.com/docs/int
 
 ## Internationalization (i18n)
 
-pytagora provides **optional multilingual support**, available in the dedicated **`i18n` branch**.  
+unKolor provides **optional multilingual support**, available in the dedicated **`i18n` branch**.  
 If you want to add localization to your project, you can pull or merge this branch and use the tools provided below.
 
 1. **Translation Files**
