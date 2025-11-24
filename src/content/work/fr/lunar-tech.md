@@ -8,8 +8,8 @@ list:
   - Sistema de diseño audaz con espacio en blanco intencional
   - Animaciones que explican ideas técnicas visualmente
   - Jerarquía tipográfica clara que apoya el diseño
-imageThumbnail: /collections/work/lunar-tech.jpg
-video: /collections/work/lunar-tech.mp4
+imageThumbnail: /assets/images/anna.png
+video: /assets/images/anna.png
 introduction:
   title: El Brief
   subtitle: Lanzando una presencia audaz para un innovador de tecnología profunda.
@@ -19,11 +19,11 @@ whatWeDid:
   title: Lo Que Trajimos
   subtitle: Narración visual y claridad técnica.
   images:
-    - /assets/images/image-16.webp
-    - /assets/images/image-17.webp
-    - /assets/images/image-18.webp
-    - /assets/images/image-19.webp
-    - /assets/images/image-10.webp
+    - /assets/images/anna.png
+    - /assets/images/anna.png
+    - /assets/images/anna.png
+    - /assets/images/anna.png
+    - /assets/images/anna.png
   body: |
     <p>Entregamos una página de inicio completamente responsiva con activadores de desplazamiento interactivos, uso audaz del espacio negativo y animaciones que explicaban temas técnicos como APIs y pipelines. Cada elemento fue diseñado para apoyar la comunicación clara y la narración confiada.</p>
 feedback:
