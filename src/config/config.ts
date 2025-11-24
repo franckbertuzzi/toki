@@ -22,14 +22,14 @@ export interface Config {
 }
 
 export const configData: Config = {
-	siteTitle: 'unKolor - Agency Theme Built with Astro by Oxygenna',
+	siteTitle: 'orphena - Agency Theme Built with Astro by Oxygenna',
 	siteDescription:
-		'unKolor is a standout agency template with striking design, blazing speed, built for modern agencies and creatives',
+		'orphena is a standout agency template with striking design, blazing speed, built for modern agencies and creatives',
 	ogImage: '/og.jpg',
 	logo: {
 		src: '/logo-light.webp',
 		srcDark: '/logo-dark.webp',
-		alt: 'unKolor logo'
+		alt: 'orphena logo'
 	},
 	canonical: true,
 	noindex: false,

@@ -1,7 +1,7 @@
 {
 	"footerAbout": {
 		"aboutText": "Tired of boring? Let’s talk.",
-		"aboutLink": "hello@unKolor.com"
+		"aboutLink": "hello@orphena.com"
 	},
 	"footerColumns": [
 		{
@@ -30,6 +30,6 @@
 		}
 	],
 	"subFooter": {
-		"copywriteText": "2025 unKolor"
+		"copywriteText": "2025 orphena"
 	}
 }

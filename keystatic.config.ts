@@ -3,10 +3,10 @@ import { config, fields, collection } from "@keystatic/core";
 export default config({
   storage: import.meta.env.DEV ? { kind: "local" } : { kind: "cloud" },
   cloud: {
-    project: "unKolor-astro-theme/unKolor-astro-theme",
+    project: "orphena-astro-theme/orphena-astro-theme",
   },
   ui: {
-    brand: { name: "unKolor Astro Themes" },
+    brand: { name: "orphena Astro Themes" },
   },
   collections: {
     blog: collection({
